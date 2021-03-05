@@ -7,9 +7,9 @@
 - 🥅 The only word that comes up in my mind when I think of 2021 is: gratitude. :)
 - ⚡ Fun fact: I know how to solve some weird, movie-like physics and I love playing games!
 
-### Let's connect:
+### Together we can make the world a better place:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rmcsoftdev | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 <br />
 
