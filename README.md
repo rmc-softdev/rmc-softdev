@@ -1,4 +1,4 @@
-### I'm Rafa and I like to build awesome things [rmcsoftdev][website] 👨‍💻
+### Hey there, I'm Rafa and I like to build awesome things [rmcsoftdev][website] 👨‍💻
 
 ##
 
