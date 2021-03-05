@@ -5,7 +5,7 @@
 - 🔭 I'm a React specialist. Also one line-height px means quite a lot to me.
 - 👯 IAwesome colleagues made me a better person. And also a rather restlessly excited developer.
 - 🥅 The only word that comes up in my mind when I think of 2021 is: gratitude. :)
-- ⚡ Fun fact: I know how to solve some weird, movie-like physics and I love playing games!
+- ⚡ Fun fact: I knew how to solve some weird, movie-like physics and I love playing games!
 
 ### Together we can make the world a better place:
 
