@@ -1,7 +1,6 @@
 ### Hey there, I'm Rafa, aka [rmcsoftdev][website] 👨‍💻
 
-### Let's build awesome projects, [connect][linkedin] 
-[<img align="left" alt="rmcsoftdev | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+### Let's build awesome projects, [connect][linkedin]  ### [<img align="left" alt="rmcsoftdev | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 - 🔭 I'm a React specialist. Also one line-height px means quite a lot to me.
 - 👯 IAwesome colleagues made me a better person. And also a rather restlessly excited developer.
