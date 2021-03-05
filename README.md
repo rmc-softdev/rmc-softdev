@@ -1,4 +1,4 @@
-### Hey there, I'm Rafa [rmcsoftdev][website] 👨‍💻! Let's connect [<img align="left" alt="rmcsoftdev | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] and build awesome projects
+### Hey there, I'm Rafa [rmcsoftdev][website] 👨‍💻! Let's [connect <img align="left" alt="rmcsoftdev | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] and build awesome projects
 
 ##
 
