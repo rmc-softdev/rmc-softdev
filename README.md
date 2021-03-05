@@ -7,13 +7,6 @@
 - 🥅 The first word that comes up in my mind when I think of 2021 is: gratitude.
 - ⚡ Fun fact: I know how to solve some weird, movie-like physics and I love playing games!
 
-
-### Favorite stack as of now, really loving it so far:
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 ---
 
 [website]: https://www.rmcsoftdev.com
