@@ -7,9 +7,6 @@
 - 🥅 The only word that comes up in my mind when I think of 2021 is: gratitude. :)
 - ⚡ Fun fact: I knew how to solve some weird, movie-like physics and I love playing games!
 
-### Together we can make the world a better place:
-
-
 <br />
 
 ### Currently loving the TS, React and Testing combo 👋:
