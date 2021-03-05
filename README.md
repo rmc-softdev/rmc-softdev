@@ -1,6 +1,6 @@
 ### Hey there, I'm Rafa, aka [rmcsoftdev][website] 👨‍💻.
 
-### Let's connect[linkedin] and build awesome projects
+### Let's [connect][linkedin] and build awesome projects
 
 - 🔭 I'm a React specialist. Also one line-height px means quite a lot to me.
 - 👯 Awesome colleagues made me a better person. And also a rather restlessly excited developer.
