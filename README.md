@@ -1,4 +1,4 @@
-### Hey there, I'm Raf, aka [rmcsoftdev][website] 👨‍💻. Let's [connect][linkedin].
+### Hey there, I'm Rafa, aka [rmcsoftdev][website] 👨‍💻. Let's [connect][linkedin].
 
 - 🔭 I'm a React specialist (way before its hype). Also one line-height px means quite a lot to me.
 - 👯 Awesome colleagues have made me a better person. And also a rather restlessly excited developer.
